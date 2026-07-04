@@ -12,6 +12,7 @@
 | Jieeun | @Froggy1018 |
 | Saif | @Saif1187 |
 | Andrew | @LoKng1023 |
+
 ---
 
 ## ⚡ Conflict Zone
@@ -22,6 +23,7 @@
 **What is the most useful Git command you learned today, and why?**
 
 Merge git
+
 ---
 
 ## ✅ Resolution Notes
@@ -29,3 +31,4 @@ Merge git
 After resolving the conflict, write a one-sentence summary of how you resolved it:
 
 _(Add your resolution note here after Exercise 3 is complete)_
+
