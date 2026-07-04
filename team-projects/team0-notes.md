@@ -1,20 +1,20 @@
-# Team 1 — Shared Notes 📝
+# Shared Team0 hared Notes 📝
 
-> This file is shared by all Team 1 members.
-> Both of you will edit the **Conflict Zone** below at the same time — that's the point.
-
+> This file is shared by all Team 5 members.
+> Both of you wisll edit the **Conflict Zone** below at the same time — that's the poi
 ---
+
 
 ## Team Members
 
-| Name | GitHub |
+| Team0 | GitHub |
 |------|--------|
-| Jieeun | @Froggy1018 |
-| Saif | @Saif1187 |
-| Andrew | @LoKng1023 |
+| Carl | @carlmasters02 |
+| Ai | @quackmyheart |
+| Clarence | @cy181 |
 
 ---
-
+s
 ## ⚡ Conflict Zone
 
 > **Instructions:** Both teammates edit this section on their own branches.
@@ -22,7 +22,9 @@
 
 **What is the most useful Git command you learned today, and why?**
 
-learn how to merge git
+git add .
+
+Something different from Carl
 
 ---
 
@@ -30,5 +32,6 @@ learn how to merge git
 
 After resolving the conflict, write a one-sentence summary of how you resolved it:
 
-We combined the two answers.
-_(Add your resolution note here after Exercise 3 is complete)_
+We accepted the most up to date current changes.
+
+
