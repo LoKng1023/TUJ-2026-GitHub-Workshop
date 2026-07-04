@@ -21,9 +21,6 @@
 > Do NOT coordinate your edits — the goal is to write different things.
 
 **What is the most useful Git command you learned today, and why?**
-
-learn how to merge git
-
 ---
 
 ## ✅ Resolution Notes
