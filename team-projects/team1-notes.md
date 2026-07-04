@@ -9,8 +9,9 @@
 
 | Name | GitHub |
 |------|--------|
-| Person A | @tbd |
-| Person B | @tbd |
+| Jieeun | @Froggy1018 |
+| Saif | @Saif1187 |
+| Andrew | @LoKng1023 |
 
 ---
 
@@ -21,7 +22,7 @@
 
 **What is the most useful Git command you learned today, and why?**
 
-_(Edit this line on your branch — your teammate will write something different)_
+learn how to merge git
 
 ---
 
